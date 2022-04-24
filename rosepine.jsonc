@@ -1,18 +1,18 @@
 {
   "meta": {
-    "name": "GitKraken Rose Pine",
+    "name": "GitKraken Rosé Pine",
     "scheme": "dark" // must be "light" or "dark"
   },
   "themeValues": {
     // values applied to the entire app
     "root": {
-      "red": "#D9413D",
-      "orange": "#DE9B43",
-      "yellow": "#ECB91C",
-      "green": "#5CB85C",
-      "blue": "#4D88FF",
-      "ltblue": "#5bc0de",
-      "app__bg0": "#1C1E23",
+      "red": "#eb6f92", //rosepine
+      "orange": "#ebbcba", //rosepine
+      "yellow": "#f6c177", //rosepine
+      "green": "#c4a7e7", //rosepine
+      "blue": "#31748f", //rosepine
+      "ltblue": "#9ccfd8", //rosepine
+      "app__bg0": "#c4a7e7", //test
       "toolbar__bg0": "lighten(saturate(@app__bg0, 3%), 6%)",
       "toolbar__bg1": "lighten(@toolbar__bg0, 4%)",
       "toolbar__bg2": "lighten(@toolbar__bg1, 6%)",
@@ -38,7 +38,7 @@
       "graph-color-9": "#2ece9d",
       // text colors
       // values starting with . aren't added to the CSS, they're just variables
-      ".text-color": "#FFFFFF",
+      ".text-color": "##e0def4", // rosepine
       "text-selected": "@.text-color",
       "text-normal": "fade(@.text-color, 75%)",
       "text-secondary": "fade(@.text-color, 60%)",
