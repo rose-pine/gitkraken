@@ -6,39 +6,39 @@
   "themeValues": {
     // values applied to the entire app
     "root": {
-      "red": "#eb6f92", //rosepine
-      "orange": "#ebbcba", //rosepine
-      "yellow": "#f6c177", //rosepine
-      "green": "#c4a7e7", //rosepine
-      "blue": "#31748f", //rosepine
-      "ltblue": "#9ccfd8", //rosepine
-      "app__bg0": "#c4a7e7", //test
-      "toolbar__bg0": "lighten(saturate(@app__bg0, 3%), 6%)",
-      "toolbar__bg1": "lighten(@toolbar__bg0, 4%)",
-      "toolbar__bg2": "lighten(@toolbar__bg1, 6%)",
-      "panel__bg0": "lighten(@app__bg0, 5%)",
-      "panel__bg1": "lighten(@panel__bg0, 5%)",
-      "panel__bg2": "lighten(@panel__bg1, 5%)",
-      "input__bg": "fade(#000000, 20%)",
+      "red": "#eb6f92",
+      "orange": "#ebbcba", 
+      "yellow": "#f6c177",
+      "green": "#c4a7e7", 
+      "blue": "#31748f", 
+      "ltblue": "#9ccfd8", 
+      "app__bg0": "#191724", 
+      "toolbar__bg0": "#1f1d2e",
+      "toolbar__bg1": "#908caa",
+      "toolbar__bg2": "#403d52",
+      "panel__bg0": "#1f1d2e",
+      "panel__bg1": "#1f1d2e",
+      "panel__bg2": "#26233a",
+      "input__bg": "#1f1d2e",
       "input-bg-warn-color": "fade(@orange, 60%)",
       "panel-border": "darken(@app__bg0, 4%)",
       "section-border": "fade(#FFFFFF, 8%)",
       "subtle-border": "fade(#FFFFFF, 4%)",
-      "modal-overlay-color": "rgba(0,0,0,.5)",
+      "modal-overlay-color": "#26233a",
       // graph colors
-      "graph-color-0": "#15a0bf",
-      "graph-color-1": "#0669f7",
-      "graph-color-2": "#8e00c2",
-      "graph-color-3": "#c517b6",
-      "graph-color-4": "#d90171",
-      "graph-color-5": "#cd0101",
-      "graph-color-6": "#f25d2e",
-      "graph-color-7": "#f2ca33",
-      "graph-color-8": "#7bd938",
-      "graph-color-9": "#2ece9d",
+      "graph-color-0": "#31748f",
+      "graph-color-1": "#9ccfd8",
+      "graph-color-2": "#c4a7e7",
+      "graph-color-3": "#907aa9", //from pine dawn
+      "graph-color-4": "#eb6f92",
+      "graph-color-5": "#ebbcba",
+      "graph-color-6": "#ea9d34", //from pine dawn gold
+      "graph-color-7": "#f6c177",
+      "graph-color-8": "#3e8fb0", //was green
+      "graph-color-9": "#56949f",
       // text colors
       // values starting with . aren't added to the CSS, they're just variables
-      ".text-color": "##e0def4", // rosepine
+      ".text-color": "#e0def4",
       "text-selected": "@.text-color",
       "text-normal": "fade(@.text-color, 75%)",
       "text-secondary": "fade(@.text-color, 60%)",
