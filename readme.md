@@ -13,10 +13,9 @@
 
 ## Usage
 
-1. Extract `rosepine.jsonc` or `rosepine-dawn` to the `.gitkraken/themes` folder
-2. Open Gitkraken
-3. Under Preferences --> UI Customization
-4. Select `Rosé Pine` or `Rosé Pine Dawn` from the themes dropdown
+1. Move the desired theme to `~/.gitkraken/themes`
+2. Navigate to GitKraken Preferences &rarr; UI Customization
+3. Select `Rosé Pine` or other variant from the themes dropdown
 
 ## Gallery
 ![Rosé Pine Social](assets/rosepine-gitkraken-social.png)
