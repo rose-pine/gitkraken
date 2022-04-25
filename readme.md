@@ -18,9 +18,14 @@
 3. Select `Rosé Pine` or other variant from the themes dropdown
 
 ## Gallery
-![Rosé Pine Social](assets/rosepine-gitkraken-social.png)
-![Rosé Pine Dawn with Gitkraken](assets/rosepine-dawn.png)
-![Rosé Pine with Gitkraken](assets/rosepine.png)
+
+**Rosé Pine**
+
+![Rosé Pine with GitKraken](https://user-images.githubusercontent.com/1474821/165159729-ec2c88a1-33cd-4ceb-8177-f31e129b30ac.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn with GitKraken](https://user-images.githubusercontent.com/1474821/165159753-f3b52a2a-74da-4050-9661-47503328fac7.png)
 
 ## Thanks to
 
