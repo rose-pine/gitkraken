@@ -21,16 +21,16 @@
 
 **Rosé Pine**
 
-![Rosé Pine with GitKraken](Screenshots/Pine.png)
+![Rosé Pine with GitKraken](assets/rose-pine.png)
 
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon with GitKraken](Screenshots/Moon.png)
+![Rosé Pine Moon with GitKraken](assets/rose-pine-moon.png)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn with GitKraken](Screenshots/Dawn.png)
+![Rosé Pine Dawn with GitKraken](assets/rose-pine-dawn.png)
 
 ## Thanks to
 
