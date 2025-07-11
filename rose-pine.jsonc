@@ -138,12 +138,12 @@
         "added-line": "fade(@green, 20%)",
         "deleted-line": "fade(@red, 20%)",
         "modified-line": "fade(#000000, 25%)",
-        "conflict-info-color": "#15a0bf",
-        "conflict-left-border-color": "#15a0bf",
+        "conflict-info-color": "#31748f",
+        "conflict-left-border-color": "#31748f",
         "conflict-left-color": "fade(@conflict-left-border-color, 25%)",
-        "conflict-right-border-color": "#f2ca33",
+        "conflict-right-border-color": "#f6c177",
         "conflict-right-color": "fade(@conflict-right-border-color, 25%)",
-        "conflict-output-border-color": "#c517b6",
+        "conflict-output-border-color": "#b4637a",
         "conflict-output-color": "fade(@conflict-output-border-color, 25%)"
       },
       // override specific values just for the toolbar
