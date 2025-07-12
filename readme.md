@@ -35,3 +35,4 @@
 ## Thanks to
 
 - [Diorcula](https://github.com/diorcula)
+- [Henrique](https://github.com/Henriquehnnm)
